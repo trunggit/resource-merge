@@ -20,6 +20,8 @@
     <!--INC
     <bool name="is_layout_landscape">false</bool>
 
+    <!-- FIRST-->
+
     <!-- Dimensions for CallCard elements (the normal in-call UI) -->
 
     <!-- Height of the "call banner" overlay on top of the upper part of the call info area.
