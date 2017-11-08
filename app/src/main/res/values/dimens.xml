@@ -17,10 +17,11 @@
 
 <resources>
     <!-- Whether or not the landscape mode layout is currently being used -->
-    
+
     <bool name="is_layout_landscape">false</bool>
 
     <!--SECOND-->
+    <!--tHIRD-->
 
     <!-- Dimensions for CallCard elements (the normal in-call UI) -->
 
